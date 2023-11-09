@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h2,
+h3 {
+  color: #00a2c6;
+}
+
+footer {
+  padding: 20px;
+  color: white;
+  background-color: #00a2c6;
+}
+.profile header {
+  text-align: center;
+}
+
+.featured-image {
+  width: 50%;
+  max-height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.profile img {
+  width: 200px;
+}
